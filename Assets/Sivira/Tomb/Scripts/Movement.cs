@@ -12,6 +12,10 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
+        Vector2 origin = new Vector2(transform.position.x + (dir.x * padding), transform.position.y + (dir.y * padding));
+        RaycastHit2D hit = Physics2D.Raycast(origin, dir, float.MaxValue);
+        Debug.DrawLine(origin, dir * (float.MaxValue), Color.red);
+
         if (!isMoving)
         {
             float valueH = Input.GetAxisRaw("Horizontal");
@@ -19,28 +23,26 @@ public class Movement : MonoBehaviour
 
             if (valueH != 0 || valueV != 0)
             {
-                isMoving = true;
-
+                transform.parent = null;
                 if (valueH != 0)
                 {
                     dir = Vector2.right * valueH;
+                    isMoving = true;
                 }
 
                 if (valueV != 0)
                 {
                     dir = Vector2.up * valueV;
+                    isMoving = true;
                 }
             }
+
         }
         else
         {
-            Vector2 origin = new Vector2(transform.position.x + (dir.x * padding), transform.position.y + (dir.y * padding));
-            RaycastHit2D hit = Physics2D.Raycast(origin, dir, float.MaxValue);
-            Debug.DrawLine(origin, dir * (float.MaxValue), Color.red);
-
-            if (hit && hit.collider.CompareTag("block"))
+            if (hit)
             {
-                if (hit.collider.CompareTag("block"))
+                if (hit.collider.CompareTag("block") || hit.collider.CompareTag("MovibleBlock"))
                 {
                     float dist = (hit.point - origin).magnitude;
 
@@ -51,6 +53,7 @@ public class Movement : MonoBehaviour
                     else
                     {
                         isMoving = false;
+                        transform.parent = hit.collider.gameObject.transform;
                     }
                 }
             }

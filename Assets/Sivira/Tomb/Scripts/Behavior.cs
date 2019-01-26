@@ -18,7 +18,7 @@ public class Behavior : MonoBehaviour
     {
         dist = (player.transform.position - transform.position).magnitude;
 
-        if (dist <= 0.1f) {
+        if (dist <= 0.5f) {
             pointCount.IncreasePoints();
             Destroy(gameObject);
         }
