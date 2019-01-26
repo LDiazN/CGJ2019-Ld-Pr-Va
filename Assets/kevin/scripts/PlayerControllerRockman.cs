@@ -16,12 +16,14 @@ public class PlayerControllerRockman : MonoBehaviour
     private bool crash = false;
     private bool changeScene = false;
     private float defaultGravity;
+    private Animator animator;
     
 
     // Start is called before the first frame update
     void Start()
     {
         mRigidbody = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
         defaultGravity = mRigidbody.gravityScale;
         MyRestart();
     }
@@ -65,6 +67,7 @@ public class PlayerControllerRockman : MonoBehaviour
     
     void MyRestart()
     {
+        animator.SetBool("crash", false);
         elapsedTime = playTimeInSeconds;
         gameObject.transform.position = Vector3.zero;
         crash = false;
@@ -74,6 +77,7 @@ public class PlayerControllerRockman : MonoBehaviour
 
     IEnumerator GameOver()
     {
+        animator.SetBool("crash", true);
         boomText.gameObject.SetActive(true);
         mRigidbody.gravityScale = 0;
         Vector3 lastPosition = transform.position;
