@@ -14,7 +14,8 @@ public class Movement : MonoBehaviour
     {
         Vector2 origin = new Vector2(transform.position.x + (dir.x * padding), transform.position.y + (dir.y * padding));
         RaycastHit2D hit = Physics2D.Raycast(origin, dir, float.MaxValue);
-        Debug.DrawLine(origin, dir * (float.MaxValue), Color.red);
+        Debug.DrawLine(origin + (dir * padding), dir * (2f), Color.red);
+        Debug.DrawLine(origin - (dir * padding), dir * (2f), Color.red);
 
         if (!isMoving)
         {

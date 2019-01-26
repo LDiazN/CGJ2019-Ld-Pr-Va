@@ -12,6 +12,8 @@ public class GameRestart : MonoBehaviour
         pointCount = GetComponent<PointCount>();
     }
 
+
+
     public void RestartGame()
     {
         if (pointCount.points != pointCount.totalPoints)
