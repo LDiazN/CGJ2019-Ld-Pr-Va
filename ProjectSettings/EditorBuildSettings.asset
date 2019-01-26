@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/kevin/scene/rocketman_final.unity
     guid: 8f6912cb203b6314cb6488008dac7001
+  - enabled: 1
+    path: Assets/Posada/scene/posada_scene.unity
+    guid: ffdc2c29f8ddc9643a47e6520615ad10
   m_configObjects: {}

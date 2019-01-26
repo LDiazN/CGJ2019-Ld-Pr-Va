@@ -988,7 +988,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 654d2170ee0828744abc185a01a264b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playScene: 
+  playScene: posada_scene
   mainMenuPanel: {fileID: 685189429}
   creditsPanel: {fileID: 509371688}
 --- !u!4 &921068168
