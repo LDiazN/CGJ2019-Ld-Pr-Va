@@ -16,19 +16,11 @@ public class PlayerControllerRockman : MonoBehaviour
     private bool crash = false;
     private bool changeScene = false;
     private float defaultGravity;
-    private AsyncOperation asyncOperationNextScene;
-
-    void Awake()
-    {
-        asyncOperationNextScene = SceneManager.LoadSceneAsync(sceneName);
-        asyncOperationNextScene.allowSceneActivation = false;
-        
-    }
+    
 
     // Start is called before the first frame update
     void Start()
     {
-        
         mRigidbody = GetComponent<Rigidbody2D>();
         defaultGravity = mRigidbody.gravityScale;
         MyRestart();
@@ -47,7 +39,7 @@ public class PlayerControllerRockman : MonoBehaviour
             if(!changeScene)
             {
                 changeScene = true;
-                asyncOperationNextScene.allowSceneActivation = true;
+                SceneManager.LoadSceneAsync(sceneName);
             }
         }
 
