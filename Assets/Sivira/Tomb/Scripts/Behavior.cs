@@ -5,12 +5,14 @@ using UnityEngine;
 public class Behavior : MonoBehaviour
 {
     private PointCount pointCount;
+    private TimeCount timeCount;
     private float dist = 0f;
     private GameObject player;
 
     void Start()
     {
         pointCount = GameObject.FindGameObjectWithTag("MiniGameManager").GetComponent<PointCount>();
+        timeCount = GameObject.FindGameObjectWithTag("MiniGameManager").GetComponent<TimeCount>();
         player = GameObject.FindGameObjectWithTag("Player");
     }
 
@@ -18,8 +20,9 @@ public class Behavior : MonoBehaviour
     {
         dist = (player.transform.position - transform.position).magnitude;
 
-        if (dist <= 0.1f) {
+        if (dist <= 0.5f) {
             pointCount.IncreasePoints();
+            timeCount.IncreaseTime();
             Destroy(gameObject);
         }
     }
