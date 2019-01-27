@@ -195,6 +195,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 3284764664733058730, guid: 8e1349d431997544595d07e1f92f8998,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e1349d431997544595d07e1f92f8998, type: 3}
 --- !u!1 &75586900
@@ -385,7 +390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialTime: 5
   actualTime: 0
-  timeFruit: 3
+  timeFruit: 2
   timeCount: {fileID: 1447562568}
 --- !u!114 &121195157
 MonoBehaviour:
@@ -400,7 +405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 0
-  totalPoints: 46
+  totalPoints: 45
   scorePoints: {fileID: 1595216575}
 --- !u!114 &121195158
 MonoBehaviour:
