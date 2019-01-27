@@ -6,8 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class PlayerControllerRockman : MonoBehaviour
 {
-    public AudioClip helice;
-    public AudioClip crashAudio;
     public string sceneName = "rocketman_final";
     public Text timeText;
     public Text boomText;
@@ -18,16 +16,12 @@ public class PlayerControllerRockman : MonoBehaviour
     private bool crash = false;
     private bool changeScene = false;
     private float defaultGravity;
-    private Animator animator;
-    private AudioSource audioSource;
     
 
     // Start is called before the first frame update
     void Start()
     {
         mRigidbody = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-        audioSource = GetComponent<AudioSource>();
         defaultGravity = mRigidbody.gravityScale;
         MyRestart();
     }
@@ -71,11 +65,6 @@ public class PlayerControllerRockman : MonoBehaviour
     
     void MyRestart()
     {
-        audioSource.Pause();
-        audioSource.clip = helice;
-        audioSource.loop = true;
-        audioSource.Play();
-        animator.SetBool("crash", false);
         elapsedTime = playTimeInSeconds;
         gameObject.transform.position = Vector3.zero;
         crash = false;
@@ -85,11 +74,6 @@ public class PlayerControllerRockman : MonoBehaviour
 
     IEnumerator GameOver()
     {
-        audioSource.Pause();
-        audioSource.clip = crashAudio;
-        audioSource.loop = false;
-        audioSource.Play();
-        animator.SetBool("crash", true);
         boomText.gameObject.SetActive(true);
         mRigidbody.gravityScale = 0;
         Vector3 lastPosition = transform.position;
