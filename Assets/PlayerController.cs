@@ -167,7 +167,7 @@ public class PlayerController : MonoBehaviour
             CameraControllerAdventure.gameCam.transform.Translate(10 * Vector3.back);
 
         }
-        else if (collision.gameObject.tag == "Exit_Adv" && itemCount == requiredItemCount)
+        else if (collision.gameObject.tag == "Exit_Adv" && itemCount >= requiredItemCount)
         {
             EndGame();
         }
@@ -207,7 +207,7 @@ public class PlayerController : MonoBehaviour
 
         FindObjectOfType<PlayerAudioManager>().Play("exit");
 
-        Invoke("NextScene",1f);
+        Invoke("NextScene",2f);
     }
 
     void NextScene()

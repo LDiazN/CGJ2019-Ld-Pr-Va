@@ -683,6 +683,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 9137117900262872583, guid: 7dfcebe39907f0846ba05923f299e298,
+        type: 3}
+      propertyPath: m_havePropertiesChanged
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137117900262872583, guid: 7dfcebe39907f0846ba05923f299e298,
+        type: 3}
+      propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9137117900588070871, guid: 7dfcebe39907f0846ba05923f299e298,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -788,16 +798,6 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9137117900262872583, guid: 7dfcebe39907f0846ba05923f299e298,
-        type: 3}
-      propertyPath: m_havePropertiesChanged
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 9137117900262872583, guid: 7dfcebe39907f0846ba05923f299e298,
-        type: 3}
-      propertyPath: m_isInputParsingRequired
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7dfcebe39907f0846ba05923f299e298, type: 3}
 --- !u!1 &1444110839
@@ -831,7 +831,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.33
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
