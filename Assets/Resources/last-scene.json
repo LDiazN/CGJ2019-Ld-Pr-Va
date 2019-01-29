@@ -1,0 +1,17 @@
+{
+	"Scene_Dialogs":
+	[
+		{
+		 "dialog_text" : "Maybe... Maybe I'll stay at Domum.",
+		 "character" : "Posadero"
+		},
+    {
+		 "dialog_text" : "...",
+		 "character" : "Posadero"
+		},
+    {
+     "dialog_text" : "Yeah... I'll stay at home for now.",
+     "character" : "Posadero"
+    }
+  ]
+}

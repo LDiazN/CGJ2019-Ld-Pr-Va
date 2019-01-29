@@ -1,6 +1,6 @@
 
 {
-	"Scene_Dialogs": 
+	"Scene_Dialogs":
 	[
 
 		{
@@ -8,11 +8,15 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Sure I did.",
+			"dialog_text" : "I sure did.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Ehm... Sorry for not minding my own bussiness but, can i ask you why did you leave your home country?",
+			"dialog_text" : "...",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Ehm... Sorry for not minding my own bussiness but, can I ask you why did you leave your home country?",
 			"character" : "Posadero"
 		},
 		{
@@ -44,7 +48,7 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "I saved enough money to take them out of our home country. I'm finally going to see them after many years of waiting.",
+			"dialog_text" : "I saved enough money to take them out of our country. I'm finally going to see them after many years of waiting.",
 			"character" : "Huesped"
 		},
 		{
@@ -68,7 +72,7 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*I think at the end, itsn't too hot*",
+			"dialog_text" : "*I think at the end, it's not too hot*",
 			"character" : "Posadero"
 		}
 	]

@@ -35,7 +35,7 @@
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "*Why does this guy looks like Poe?*",
+		 "dialog_text" : "*Why does this guy looks like Edgar Allan Poe?*",
 		 "character" : "Posadero"
 		},
 		{
@@ -47,11 +47,11 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "that's an interesting shape in that tree!",
+			"dialog_text" : "that tree has a very interesting shape!",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*I KNOW, I know... I know there's paper toi...*",
+			"dialog_text" : "*I KNOW, I know... I know there's toilet pap...*",
 			"character" : "Posadero"
 		},
 		{
@@ -59,7 +59,7 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Shapes?",
+			"dialog_text" : "Shape?",
 			"character" : "Posadero"
 		},
 		{
@@ -83,7 +83,7 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "From the ancient tales of the Labyrinth of Crete to the book 'Laberintos' from Borges...",
+			"dialog_text" : "From the ancient tales of the Labyrinth of Crete to the 'Laberintos' from Borges...",
 			"character" : "Huesped"
 		},
 		{
@@ -107,7 +107,7 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "That what I was looke for!",
+			"dialog_text" : "That what I was looking for!",
 			"character" : "Huesped"
 		},
 		{
@@ -115,7 +115,7 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "*I should get back the habit to reading. Why did I stop in the first place anyways?*",
+			"dialog_text" : "*I should get back the habit to reading. Why did I stop in the first place anyway?*",
 			"character" : "Posadero"
 		}
 	]
