@@ -1,0 +1,34 @@
+{
+	"Scene_Dialogs":
+	[
+
+		{
+		 "dialog_text" : "How many years have been? 35? 37?",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Maybe it's time for a change and look for new things... Yeah, new experiences.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "With the money from the sale I can go somewhere else and start again.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "...",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "The bussiness isn't doing great and I feel... uncomfortable. Like I don't belong",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Oh, Domum...",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "...",
+			"character" : "Posadero"
+		}
+	]
+}

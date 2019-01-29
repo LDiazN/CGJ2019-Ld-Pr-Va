@@ -1,0 +1,22 @@
+
+{
+	"Scene_Dialogs": 
+	[
+
+		{
+		 "dialog_text" : "No escribir en esta pls",
+		 "character" : "Posadero",
+		 "last"	: "false"
+		},
+		{
+			"dialog_text" : "Chao",
+			"character" : "Huesped",
+			"last"	: "false"
+		},
+		{
+			"dialog_text" : "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+			"character" : "Huesped",
+			"last"	: "true"
+		}
+	]
+}

@@ -1,0 +1,77 @@
+
+
+{
+	"Scene_Dialogs":
+	[
+
+		{
+		 "dialog_text" : "Good morning, sir. Did you rest well?",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Sure. I even wrote a bit.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "What are you writing?",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "I'm finishing my third novel.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Is it... about mazes?",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Heh, yeah, kind of... That's why I'm a bit obsessed. Although It's not literaly about mazes, sir.",
+		 "character" : "Huesped"
+		},
+
+		{
+			"dialog_text" : "Life is like a labyrinth. Great part of it is about trying to find something.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "Most people spend their whole life trying to find that 'something' without success. For me, the solution of the maze is where we belong.",
+		 "character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "*Well this went to places I was NOT prepare to...*",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "And... where do you belong to?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "That's a though question. I think belong where I feel at peace... and I feel like that when I'm creating, writing.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "We use to forget that those little moments are what make us feel comfort.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*Yeah, not prepared nor expected, but I really enjoyed the philosophy lesson*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Now I have to leave. Thanks for the chat and getting involved with my job.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Thank you, sir, for passing by. Hope the novel turns out fine.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "I'll send you a copy when its done. Good bye!",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*What an interesting man...*",
+			"character" : "Posadero"
+		}
+	]
+}

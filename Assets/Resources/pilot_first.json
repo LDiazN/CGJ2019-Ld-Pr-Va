@@ -1,0 +1,88 @@
+
+{
+	"Scene_Dialogs": 
+	[
+
+		{
+		 "dialog_text" : "*I guess I spoke too soon*",
+		 "character" : "Posadero"
+		},
+
+		{
+		 "dialog_text" : "Good morning, ma'am. Welcome to Domum. How can I help you?",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Good morning, sir. I came looking for a place to stay for today.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "Well, If don't mind sharing a home with a rusty old man, then this is your place. ",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Haha, I thing I'll enjoy my stay. I noticed the tree outside...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "... with toilet paper...",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "Oh yeah, that thing...",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Some kids from the neighborhood thought it wass funny to decorate my front yard. I'm too old to remove so I thing it'll stay like that.",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Oh, kids are always like that... The tree reminds me of my hometown.",
+			"character" : "Huesped"
+		},
+		{
+		 	"dialog_text" : "*Well, surely she is not from here. She sounds like a foreigner*",
+		 	"character" : "Posadero"
+		},
+		{
+		 	"dialog_text" : "Really? How so?",
+		 	"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Back at my country, we had a national celebration. On that day, we decorated the trees of our yards with colorful pieces of fabric.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "I especially remember one of my neighbours decorating all the trees from his backyard with bright yellow silk laces.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "So, the same color as your scarf!",
+		 "character" : "Posadero"
+		},
+				{
+		 "dialog_text" : "*Isn't a bit too hot to be wearing a scarf?*",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Exactly! Haha... *sigh*",
+			"character" : "Huesped"
+		},
+		{
+		 	"dialog_text" : "*Oh no, what did I say? Why is she suddenly looking sad? Do I smell bad?* Are... you ok, ma'am.",
+		 	"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Yes, sir, don't worry. I'm just a bit nostalgic about home. I miss it a lot. Thank you for taking me back to those times.",
+			"character" : "Huesped"
+		},
+		{
+		 	"dialog_text" : "Don't worry, I'll prepare your room.",
+		 	"character" : "Posadero"
+		}
+	]
+}

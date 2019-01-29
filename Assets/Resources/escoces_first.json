@@ -1,0 +1,83 @@
+
+{
+	"Scene_Dialogs":
+	[
+
+		{
+		 "dialog_text" : "*What an odd looking character this guy is*",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Good morning, sir. Welcome to Domum. How can I help you?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Hello, sir. Do you have any available rooms?",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "*I always have room*",
+		 "character" : "Posadero"
+		},
+		{
+		 	"dialog_text" : "Of course! How many days are you planning to stay?",
+		 	"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Just a night or two. I was going back home, in Scotland, from my summer vacation trip, but those useless pricks at the airline made me lose my flight.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "You know... Their pilots don't even know how to fly properly! They just turn the autopilot and call it a day.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "I... I guess, heh.",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "*Maybe if I sell this place I can buy a plane ticket to Bora Bora and never look back*",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Oh, by the way, about that tree outside...",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*Yeah, I know. Yeah, it is toilet paper. Yeah, I want to take it off. No, I'm not planning to do so...*",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "... It looks exactly the same as the one that was just across the street from the academy.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Academy?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Aviation academy, of course! I used to be a pilot back in my days.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "*He looks a bit too young to be retired... Or am I the only one that looks like 200 years old at my age?*",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "That sounds so interesting! Why don't you pilot anymore?",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "... An accident, it's a long story.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "So, do you have anything to drink? I need alcohol to forget about those bastards at the airline",
+			"character" : "Huesped"
+		},
+				{
+		 "dialog_text" : "On my way, sir!",
+		 "character" : "Posadero"
+		}
+	]
+}

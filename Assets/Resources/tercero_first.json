@@ -1,0 +1,122 @@
+
+
+{
+	"Scene_Dialogs":
+	[
+
+		{
+		 "dialog_text" : "*Another client! Three days in a row. Maybe Domum is not that lost after all...*",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Good morning, sir. Welcome to Domum. How can I help you?",
+		 "character" : "Posadero"
+		},
+
+		{
+			"dialog_text" : "Hello, sir. I'm looking for a quite and calm place for me to stay.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "Well, you arrived to the perfect hostal.",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "*At night, you can hear the crickets singing and little creatures walking in the garden. Very special, if you ask me*",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "How many nights will you stay, sir?",
+		 "character" : "Posadero"
+		},
+
+		{
+			"dialog_text" : "Not for long. I'll be continuing my travel soon.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "*Why does this guy looks like Poe?*",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "In that case, I have the perfect room for you.",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Oh, by the way...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "that's an interesting shape in that tree!",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*I KNOW, I know... I know there's paper toi...*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "*...wait*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Shapes?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "It's just a bunch of toilet paper.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "There are many shapes and compositions right there! It almost looks like the paper is trying to get out of a maze.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*Wow, so not only he looks like he wants to die but is also crazy. Great*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Maze?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Don't you think that labyrinths hold an amazing meaning? The symbology behind a maze fascinates me.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "From the ancient tales of the Labyrinth of Crete to the book 'Laberintos' from Borges...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*Ok, I'm lost. What is he talking about? Am I in danger or should I be worry for him?*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "...Yeah, right. I see you are very passionate about it. Are you an artist or something?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Yes, I'm a writer.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*My Poe guess wasn't that far off.*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Well, I can asure you that you can write without being bother here.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "That what I was looke for!",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Just ask me if you need anything else.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "*I should get back the habit to reading. Why did I stop in the first place anyways?*",
+			"character" : "Posadero"
+		}
+	]
+}

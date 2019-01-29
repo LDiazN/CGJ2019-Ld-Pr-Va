@@ -9,6 +9,12 @@ public class Movement : MonoBehaviour
 
     private Vector2 dir = Vector2.zero;
     private bool isMoving = false;
+    private AudioSource audi;
+
+    private void Start()
+    {
+        audi = GetComponent<AudioSource>();
+    }
 
     void Update()
     {
@@ -55,6 +61,7 @@ public class Movement : MonoBehaviour
                     {
                         isMoving = false;
                         transform.parent = hit.collider.gameObject.transform;
+                        audi.Play();
                     }
                 }
             }

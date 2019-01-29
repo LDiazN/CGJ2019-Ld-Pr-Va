@@ -12,11 +12,38 @@ EditorBuildSettings:
     path: Assets/menu/scene/menu.unity
     guid: aced3b8cd03cbab45ae0a32d43c1a92b
   - enabled: 1
+    path: Assets/Scenes/Contract.unity
+    guid: 1b0a6c63874b02340a999279ad2a1d59
+  - enabled: 1
+    path: Assets/Scenes/FirstDay.unity
+    guid: 9454e7e0dc6b0dd4a9078864a539cb90
+  - enabled: 1
+    path: Assets/Scenes/Adv_LVL.unity
+    guid: b69c9308e0b0161449010e50acce9d24
+  - enabled: 1
+    path: Assets/Scenes/SecondDay.unity
+    guid: 94df94007fa5d9b49b4af6bb0a7aa4bf
+  - enabled: 1
+    path: Assets/Scenes/ThirdDay.unity
+    guid: 42865f45c9e02854a8a29ab1a53e0f23
+  - enabled: 1
     path: Assets/kevin/scene/rocketman.unity
     guid: c254d9bdf7fa5f142861a0b2ac811c66
   - enabled: 1
-    path: Assets/kevin/scene/rocketman_final.unity
-    guid: 8f6912cb203b6314cb6488008dac7001
+    path: Assets/Scenes/FourthDay.unity
+    guid: 1113499c40789cc4d9080d6085dfb2bb
+  - enabled: 1
+    path: Assets/Scenes/Phone.unity
+    guid: 5f2d2b3a063ece44bbb452c8e814cfb4
+  - enabled: 1
+    path: Assets/Scenes/FifthDay.unity
+    guid: 7186edb4d3ecfad40af7ffc6849d9559
+  - enabled: 1
+    path: Assets/Sivira/Scenes/TombOfTheMaskTest.unity
+    guid: b32339026a74e3940bfa4829d904c292
+  - enabled: 1
+    path: Assets/Scenes/SixthDay.unity
+    guid: dda680c884958934684a71637790db01
   - enabled: 1
     path: Assets/Posada/scene/posada_scene.unity
     guid: ffdc2c29f8ddc9643a47e6520615ad10

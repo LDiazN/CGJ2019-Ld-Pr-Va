@@ -1,0 +1,26 @@
+{
+	"Scene_Dialogs":
+	[
+
+		{
+		 "dialog_text" : "...",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "H-hello...?",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Son?... H-hi... Yeah, long time.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "...",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "I love you too...",
+			"character" : "Posadero"
+		}
+	]
+}

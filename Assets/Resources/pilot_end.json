@@ -1,0 +1,75 @@
+
+{
+	"Scene_Dialogs": 
+	[
+
+		{
+			"dialog_text" : "Good morning ma'am. Hope you had a nice night of sleep.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Sure I did.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Ehm... Sorry for not minding my own bussiness but, can i ask you why did you leave your home country?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "*Why can't you keep your old mouth shut for just one minute?*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "It's kind of a long story.... But I need to run away. The government was persecuting everyone who opposed the president.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "We couldn't raise our voices...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "So eventually, I left.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "I'm so... so sorry to hear that ma'am. I didn't mean to cause you any discomfort.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Not at all! Actually, I'm here because I'm traveling to another city to see my family.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "I saved enough money to take them out of our home country. I'm finally going to see them after many years of waiting.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Those are great news! I hope everything goes fine with you and your family.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "It will.. It will indeed.",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "You know what sir? Here, take my scarf. I want you to keep it as a gift...",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Now I need to rush to see my family. See you soon!",
+			"character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*I think at the end, itsn't too hot*",
+			"character" : "Posadero"
+		}
+	]
+}

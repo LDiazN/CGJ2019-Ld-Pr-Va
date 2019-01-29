@@ -17,6 +17,7 @@ public class PlayerControllerRockman : MonoBehaviour
     private Rigidbody2D mRigidbody;
     private bool crash = false;
     private bool changeScene = false;
+    private bool initGame=false;
     private float defaultGravity;
     private Animator animator;
     private AudioSource audioSource;
@@ -29,12 +30,28 @@ public class PlayerControllerRockman : MonoBehaviour
         animator = GetComponent<Animator>();
         audioSource = GetComponent<AudioSource>();
         defaultGravity = mRigidbody.gravityScale;
-        MyRestart();
+        mRigidbody.gravityScale=0;
+        boomText.text = "clip to start";
     }
 
     // Update is called once per frame
     void Update()
     {
+        
+        if(!initGame )
+        {
+            if(Input.GetButtonUp("Fire1"))
+            {
+                initGame = true;
+                boomText.text = "Boom!";
+                MyRestart();
+            }
+            else
+            {
+                return;
+            }
+        }
+
         if (!crash && Input.GetButtonDown("Fire1"))
         {
             mRigidbody.AddForce(force * Vector2.up,ForceMode2D.Impulse);
@@ -45,7 +62,7 @@ public class PlayerControllerRockman : MonoBehaviour
             if(!changeScene)
             {
                 changeScene = true;
-                SceneManager.LoadSceneAsync(sceneName);
+                SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex+1);
             }
         }
 
@@ -82,6 +99,8 @@ public class PlayerControllerRockman : MonoBehaviour
         mRigidbody.gravityScale = defaultGravity;
         boomText.gameObject.SetActive(false);
     }
+
+
 
     IEnumerator GameOver()
     {

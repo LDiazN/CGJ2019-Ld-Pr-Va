@@ -1,0 +1,79 @@
+
+{
+	"Scene_Dialogs":
+	[
+
+		{
+		 "dialog_text" : "...Haha, and then he said he found Domum through 'Trovigo'",
+		 "character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Who actually uses that? Hahaha",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "I know, right?? Haha...",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Hope you had a nice stay at Domum, my friend.",
+		 "character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Thank you, sir. This is a lovely hostal.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*Lovely? This old house?*",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Oh, sir, before you go... Can you tell me more about the accident?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "*Great, asking people weird questions again*",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Oh, yeah. It was a few years ago. I was flying with my little brother when the plane started to malfunction.",
+		 "character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "I force my brother to take a parachute and leave the aircraft while I was trying to do an emergency landing.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "I managed to land in a non-residential zone and without completly crashing, but I got injured anyway. My brother was ok, though!",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "A contusion left me partially blind, so I can't fly anymore, but I can still see my little brother!",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Wow, I'm glad that you are ok, but I'm really sorry that you can't pilot anymore.",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "The only important thing is that we are ok. Family is what I value the most, and my little brother is my best friend.",
+			"character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "Don't forget to tell your family you loved them before it's too late.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "*Mmm, maybe I should listen to him...*",
+			"character" : "Posadero"
+		},
+		{
+		 "dialog_text" : "Bye, my friend! See you soon.",
+		 "character" : "Huesped"
+		},
+		{
+			"dialog_text" : "Have a nice trip back home!",
+			"character" : "Posadero"
+		}
+	]
+}
