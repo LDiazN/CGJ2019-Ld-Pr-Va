@@ -44,7 +44,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SixthDay.unity
     guid: dda680c884958934684a71637790db01
-  - enabled: 1
-    path: Assets/Posada/scene/posada_scene.unity
-    guid: ffdc2c29f8ddc9643a47e6520615ad10
   m_configObjects: {}
