@@ -2,7 +2,7 @@
 	"Scene_Dialogs":
 	[
 		{
-		 "dialog_text" : "Maybe... Maybe I'll stay at Domum.",
+		 "dialog_text" : "Quizá... Quizá sí me quede en Domum.",
 		 "character" : "Posadero"
 		},
     {
@@ -10,7 +10,7 @@
 		 "character" : "Posadero"
 		},
     {
-     "dialog_text" : "Yeah... I'll stay at home for now.",
+     "dialog_text" : "Sí... Creo que me quedaré en casa por ahora.",
      "character" : "Posadero"
     }
   ]

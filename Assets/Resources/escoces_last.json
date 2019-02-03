@@ -2,77 +2,80 @@
 {
 	"Scene_Dialogs":
 	[
-
+	   {
+         "dialog_text" : "...jaja, quien diria que puedes encontrar a Domum en 'Trovigo'",
+         "character" : "Posadero"
+       },
+       {
+          "dialog_text" : "¿Realmente alguien usa eso? jajaaja",
+          "character" : "Huesped"
+       },
+       {
+           "dialog_text" : "¿Verdad que sí? jaja...",
+           "character" : "Posadero"
+        },
 		{
-		 "dialog_text" : "...Haha, and then he said he found Domum through 'Trovigo'",
+		 "dialog_text" : "Espero que haya tenido una agradable estadía en Domun, amigo.",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Who actually uses that? Hahaha",
-			"character" : "Huesped"
-		},
-		{
-		 "dialog_text" : "I know, right?? Haha...",
+		 "dialog_text" : "Espero que haya tenido una agradable estadía en Domun, amigo.",
 		 "character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "Hope you had a nice stay at Domum, my friend.",
-		 "character" : "Posadero"
-		},
-		{
-		 "dialog_text" : "Thank you, sir. This is a lovely hostal.",
+		 "dialog_text" : "Gracias, señor. Esta posada es muy acogedora.",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*Lovely? This old house?*",
+			"dialog_text" : "*¿Acogedora? ¿Esta vieja casa?*",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Oh, sir, before you go... Can you tell me more about the accident?",
+			"dialog_text" : "Por cierto, señor, antes de que se vaya... ¿Podría contarme más sobre el accidente?",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "*Great, asking people weird questions again*",
+			"dialog_text" : "*Excelente, otra vez haciéndole preguntas incómodas a la gente*",
 			"character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "Oh, yeah. It was a few years ago. I was flying with my little brother when the plane started to malfunction.",
+		 "dialog_text" : "Oh, sí. Fue hace algunos años. Estaba volando con mi hermano menor cuando el avión comenzó a fallar.",
 		 "character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "I force my brother to take a parachute and leave the aircraft while I was trying to do an emergency landing.",
+		 "dialog_text" : "Obligué a mi hermano a tomar el paracaídas y salir del avión mientras trataba de hacer un aterrizaje de emergencia.",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "I managed to land in a non-residential zone and without completly crashing, but I got injured anyway. My brother was ok, though!",
+			"dialog_text" : "Logré aterrizar en una zona no-residencial y sin chocar completamente contra el suelo. Yo sufrí heridas, ¡pero mi hermano salió ileso!",
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "A contusion left me partially blind, so I can't fly anymore, but I can still see my little brother!",
+		 "dialog_text" : "Una contusión me dejó parcialmente ciego, así que no puedo volar más, ¡aunque al menos todavía puedo ver a mi hermano!",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Wow, I'm glad that you are ok, but I'm really sorry that you can't pilot anymore.",
+			"dialog_text" : "Wao, qué bueno que estás bien, pero realmente lamento que no puedas volver a pilotear.",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "The only important thing is that we are ok. Family is what I value the most, and my little brother is my best friend.",
+			"dialog_text" : "La única cosa importante es que estamos bien. La familia es lo que más valoro, y mi hermano menor es mi mejor amigo.",
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "Don't forget to tell your family you loved them before it's too late.",
+		 "dialog_text" : "No se olvide de decirle a su familia que la ama antes de que sea demasiado tarde.",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*Mmm, maybe I should listen to him...*",
+			"dialog_text" : "*Mmm, quizá debería prestarle atención..*",
 			"character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "Bye, my friend! See you soon.",
+		 "dialog_text" : "¡Adiós, amigo! Nos vemos pronto.",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Have a nice trip back home!",
+			"dialog_text" : "¡Que tenga un buen viaje de regreso a casa!",
 			"character" : "Posadero"
 		}
 	]

@@ -4,24 +4,24 @@
 	[
 
 		{
-		 "dialog_text" : "*I thought that no one was coming today*",
+		 "dialog_text" : "*Pensé que nadie vendría hoy*",
 		 "character" : "Posadero"
 		},
 
 		{
-		 "dialog_text" : "Good morning, ma'am. Welcome to Domum. How can I help you?",
+		 "dialog_text" : "Buen día, señora. Bienvenida a Domum. ¿Cómo puedo ayudarla?",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Good morning, sir. I came looking for a place to stay for today.",
+			"dialog_text" : "Buenos días, señor. Estoy buscando un lugar para pasar la noche.",
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "Well, If don't mind sharing a home with a rusty old man, then this is your place. ",
+		 "dialog_text" : "Bueno, si no le importa compartir techo con un anciano oxidado, entonces este es tu lugar.",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Haha, I think I'll enjoy my stay. I noticed the tree outside...",
+			"dialog_text" : "Jaja, creo que disfrutaré mi estadía. Por cierto, noté el árbol de afuera...",
 			"character" : "Huesped"
 		},
 		{
@@ -29,59 +29,63 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "... with toilet paper...",
+			"dialog_text" : "... con papel higiénico...",
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "Oh yeah, that thing...",
+		 "dialog_text" : "Oh sí, esa cosa...",
 		 "character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "Some kids from the neighborhood thought it was funny to decorate my front yard. I'm too old to remove so I thing it'll stay like that.",
+		 "dialog_text" : "Algunos niños del vecindario pensaron que sería divertido decorar mi jardín. Estoy muy viejo para quitarlo así que supongo que se quedará así.",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Oh, kids are always like that... The tree reminds me of my hometown.",
+			"dialog_text" : "Oh, los niños siempre son así... El árbol me recuerda a mi ciudad natal.",
 			"character" : "Huesped"
 		},
 		{
-		 	"dialog_text" : "*Well, surely she's not from here. She sounds like a foreigner*",
+		 	"dialog_text" : "*Bueno, evidentemente ella no es de por aquí. Suena como una extranjera*",
 		 	"character" : "Posadero"
 		},
 		{
-		 	"dialog_text" : "Really? How so?",
+		 	"dialog_text" : "¿En serio? ¿Por qué?",
 		 	"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Back at my country, we had a national celebration. On that day, we decorated the trees of our yards with colorful pieces of fabric.",
+			"dialog_text" : "En mi país teníamos una celebración nacional. Ese día, decorábamos los árboles de nuestros jardines con telas de diferentes colores.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "I especially remember one of my neighbours decorating all the trees from his backyard with bright yellow silk laces.",
+			"dialog_text" : "Especialmente recuerdo a uno de mis vecinos decorando todos los árboles de su patio con brillantes cintas amarillas de seda.",
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "So, the same color as your scarf!",
+		 "dialog_text" : "Es decir, ¡del mismo color que tu bufanda!",
 		 "character" : "Posadero"
 		},
 				{
-		 "dialog_text" : "*Isn't it a bit too hot to be wearing a scarf?*",
+		 "dialog_text" : "*¿Aunque no es un poco caluroso como para usar una bufanda?*",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Exactly! Haha... *sigh*",
+			"dialog_text" : "¡Exacto! Jaja... *sigh*",
 			"character" : "Huesped"
 		},
 		{
-		 	"dialog_text" : "*Oh no, what did I say? Why is she suddenly looking sad? Do I smell bad?* Are... you ok, ma'am.",
+		 	"dialog_text" : "*Oh no, ¿qué dije? ¿por qué se ve triste de repente? ¿tengo mal olor?*",
 		 	"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Yes, sir, don't worry. I'm just a bit nostalgic about home. I miss it a lot. Thank you for taking me back to those times.",
+			"dialog_text" : "... ¿Se encuentra bien, señora?",
+			"character" : "Posadero"
+		},
+		{
+			"dialog_text" : "Sí, no se preocupe, señor. Solo me puse un poco nostálgica pensando en casa, la extraño mucho. Gracias por recordarme esos tiempos.",
 			"character" : "Huesped"
 		},
 		{
-		 	"dialog_text" : "Don't worry, I'll prepare your room.",
+		 	"dialog_text" : "No se preocupe, prepararé su cuarto.",
 		 	"character" : "Posadero"
 		}
 	]

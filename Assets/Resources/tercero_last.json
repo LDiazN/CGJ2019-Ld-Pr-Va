@@ -5,71 +5,75 @@
 	[
 
 		{
-		 "dialog_text" : "Good morning, sir. Did you rest well?",
+		 "dialog_text" : "Buenos días, señor. ¿Descansó bien?",
 		 "character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "Sure. I even wrote a bit.",
+		 "dialog_text" : "Seguro. Incluso pude escribir un rato",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "What are you writing?",
+			"dialog_text" : "¿Qué está escribiendo?",
 			"character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "I'm finishing my third novel.",
+		 "dialog_text" : "Estoy terminando mi tercera novela.",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Is it... about mazes?",
+			"dialog_text" : "¿Es sobre... laberintos?",
 			"character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "Heh, yeah, kind of... That's why I'm a bit obsessed. Although It's not literaly about mazes, sir.",
+		 "dialog_text" : "Jeje, sí, más o menos... Por eso estoy un poco obsesionado. Aunque no es literalmente sobre laberintos, señor.",
 		 "character" : "Huesped"
 		},
 		{
-			"dialog_text" : "You see... Life is like a labyrinth. Great part of it is about trying to find something.",
+			"dialog_text" : "Verá... La vida es como un laberito. Gran parte de ella se trata sobre encontrar algo.",
 			"character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "Most people spend their whole life trying to find that 'something' without success. For me, the solution of the maze is where we belong.",
+		 "dialog_text" : "La mayoría de las personas pasan la mayor parte de su vida tratando de encontrar ese 'algo' sin éxito.",
 		 "character" : "Huesped"
 		},
 		{
-		 "dialog_text" : "*Well this went to places I was NOT prepare for...*",
+		 "dialog_text" : "Para mí, la solución al laberinto es el lugar a donde perteneces",
+		 "character" : "Huesped"
+		},
+		{
+		 "dialog_text" : "*Bueno esto se tornó en algo para lo que NO estaba preparado...*",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "And... where do you belong to?",
+			"dialog_text" : "Y... ¿Tú a dónde perteneces?",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "That's a tough question. I think belong where I feel at peace... and I feel like that when I'm creating, writing.",
+			"dialog_text" : "Esa no es una pregunta simple. Creo que pertenezco a donde me siento en paz... y me siento así cuando estoy creando, escribiendo.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "We use to forget that those little moments are what make us feel comfort.",
+			"dialog_text" : "Solemos olvidar que son esos pequeños momentos los que nos dan alivio.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*Yeah, not prepared nor expected, but I really enjoyed the philosophy lesson*",
+			"dialog_text" : "*Seh, no estaba preparado para esto, pero disfruté mucho la lección de filosofía*",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Now I have to leave. Thanks for the chat and getting involved with my job.",
+			"dialog_text" : "Ahora debo irme. Gracias por la charla e interesarse en mi trabajo.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Thank you, sir, for passing by. Hope the novel turns out fine.",
+			"dialog_text" : "Gracias a usted, señor, por pasar por aquí. Espero que la novela salga bien.",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "I'll send you a copy when its done. Good bye!",
+			"dialog_text" : "Le enviaré una copia cuando la termine. ¡Adiós!",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*What an interesting man...*",
+			"dialog_text" : "*Qué hombre tan interesante...*",
 			"character" : "Posadero"
 		}
 	]

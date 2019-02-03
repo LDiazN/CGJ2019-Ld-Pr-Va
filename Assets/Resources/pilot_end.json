@@ -4,11 +4,11 @@
 	[
 
 		{
-			"dialog_text" : "Good morning ma'am. Hope you had a nice night of sleep.",
+			"dialog_text" : "Buenos días, señora. Espero que haya dormido bien.",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "I sure did.",
+			"dialog_text" : "Por supuesto que sí",
 			"character" : "Huesped"
 		},
 		{
@@ -16,19 +16,19 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Ehm... Sorry for not minding my own bussiness but, can I ask you why did you leave your home country?",
+			"dialog_text" : "Ehm... Discúlpeme por entrometerme, pero... ¿puedo preguntar por qué se fue de su país?",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "*Why can't you keep your old mouth shut for just one minute?*",
+			"dialog_text" : "*¿Por qué no puedes mantener tu vieja boca cerrada solo por un minuto?*",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "It's kind of a long story.... But I need to run away. The government was persecuting everyone who opposed the president.",
+			"dialog_text" : "Es una larga historia.... Pero tuve que huir. El gobierno estaba persiguiendo a todos aquellos que se opusieran al presidente.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "We couldn't raise our voices...",
+			"dialog_text" : "No podíamos alzar nuestras voces...",
 			"character" : "Huesped"
 		},
 		{
@@ -36,27 +36,27 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "So eventually, I left.",
+			"dialog_text" : "Así que eventualmente me fui.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "I'm so... so sorry to hear that ma'am. I didn't mean to cause you any discomfort.",
+			"dialog_text" : "Yo... siento mucho escuchar eso, señora. No pretendía causarle ninguna incomodidad.",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Not at all! Actually, I'm here because I'm traveling to another city to see my family.",
+			"dialog_text" : "¡Para nada! En realidad, estoy aquí porque estoy viajando a otra ciudad para ver a mi familia.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "I saved enough money to take them out of our country. I'm finally going to see them after many years of waiting.",
+			"dialog_text" : "Ahorré suficiente dinero para sacarlos del país. Finalmente podré verlos después de muchos años de espera.",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Those are great news! I hope everything goes fine with you and your family.",
+			"dialog_text" : "¡Esas son excelentes noticias! Espero que todo salga bien contigo y tu familia.",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "It will.. It will indeed.",
+			"dialog_text" : "Así será, claro que sí.",
 			"character" : "Huesped"
 		},
 		{
@@ -64,15 +64,15 @@
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "You know what sir? Here, take my scarf. I want you to keep it as a gift...",
+			"dialog_text" : "¿Sabe qué, señor? Aquí tiene, tome mi bufanda. Deseo que se la quede como regalo...",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "Now I need to rush to see my family. See you soon!",
+			"dialog_text" : "Ahora necesito correr para ver a mi familia. ¡Nos vemos pronto!",
 			"character" : "Huesped"
 		},
 		{
-			"dialog_text" : "*I think at the end, it's not too hot*",
+			"dialog_text" : "*Creo que a final de cuentas, el día no es tan caluroso*",
 			"character" : "Posadero"
 		}
 	]

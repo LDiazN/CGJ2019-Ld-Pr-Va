@@ -7,11 +7,11 @@
 		 "character" : "Posadero"
 		},
 		{
-		 "dialog_text" : "H-hello...?",
+		 "dialog_text" : "H-hola...?",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Son?... H-hi... Yeah, long time.",
+			"dialog_text" : "Hijo?... H-hola... Sí, tanto tiempo.",
 			"character" : "Posadero"
 		},
 		{
@@ -19,7 +19,7 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "I love you too...",
+			"dialog_text" : "Yo también te amo...",
 			"character" : "Posadero"
 		}
 	]

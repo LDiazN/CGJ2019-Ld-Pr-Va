@@ -3,15 +3,15 @@
 	[
 
 		{
-		 "dialog_text" : "How many years has it been?... 35?... 37?",
+		 "dialog_text" : "¿Cuántos años han pasado?... ¿35?... ¿37?",
 		 "character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Maybe it's time for a change and look for new things... Yeah, new experiences.",
+			"dialog_text" : "Quizá es tiempo de un cambio y perseguir cosas nuevas... Sí, nuevas experiencias.",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "With the money from the sale I can go somewhere else and start again.",
+			"dialog_text" : "Con el dinero de la venta podría ir a algún otro lugar y empezar de nuevo.",
 			"character" : "Posadero"
 		},
 		{
@@ -19,11 +19,11 @@
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "The bussiness isn't doing great and I feel... uncomfortable. Like I don't belong",
+			"dialog_text" : "El negocio no está yendo muy bien y me siento... incómodo. Como si no perteneciera aquí",
 			"character" : "Posadero"
 		},
 		{
-			"dialog_text" : "Oh, Domum...",
+			"dialog_text" : "Ay, Domum...",
 			"character" : "Posadero"
 		},
 		{
